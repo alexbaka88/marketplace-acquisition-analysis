@@ -1,0 +1,15 @@
+# Данные (ноутбук сначала ищет их в локальной папке datasets/)
+datasets/
+*.csv
+
+# Служебные файлы Jupyter и Python
+.ipynb_checkpoints/
+__pycache__/
+
+# Секреты
+.env
+
+# Системный мусор
+Thumbs.db
+desktop.ini
+.DS_Store
